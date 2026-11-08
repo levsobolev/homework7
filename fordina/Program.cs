@@ -88,7 +88,7 @@ namespace fordina
 
             task1.Indication(timur, vitya);
             task3.Indication(orkadiy, sergey);
-            task2.Indication(ildar, ilshat);
+            task2.Indication(ildar, ilshat); 
         }
     }
 }
